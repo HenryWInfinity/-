@@ -7,7 +7,7 @@ import pandas as pd
 import mplfinance as mpf
 import talib as ta
 
-sequence_length = 30
+sequence_length = 50
 feature_num = 18
 ts_code = '000001.sh'
 

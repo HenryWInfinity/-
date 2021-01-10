@@ -16,7 +16,7 @@ from sklearn.metrics import confusion_matrix
 import mplfinance as mpf
 
 
-sequence_length = 30
+sequence_length = 50
 day_num = 800
 feature_num = 18
 ts_code = '000001.sh'
